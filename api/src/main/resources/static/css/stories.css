@@ -1,0 +1,56 @@
+.story{
+    width: 100%;
+    height: 40px;
+    position: relative;
+    background-color: teal;
+    padding: 10px;
+}
+.story > input[type="file"]{
+display: none;
+}
+#container
+{
+	margin: 200;
+    margin-top: 70;
+}
+.story > label{
+    color: white;
+    height: 40px;
+    width: 140px;
+    background-color: #f5af09;
+    position: relative;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: -60px;
+    right: 0;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+}
+.story > button{
+        color: white;
+    height: 40px;
+    width: 140px;
+    background-color: #f5af09;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 200px;
+    right: 0;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 3px;
+}
+#name{
+    width: 400px;
+    height: 40px;
+    border-radius: 10px;
+    position: absolute;
+    left: 125px;
+}

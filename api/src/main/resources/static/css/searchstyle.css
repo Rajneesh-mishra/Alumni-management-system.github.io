@@ -1,0 +1,27 @@
+#searchbox{
+width: 800px;
+padding-top: 20px;
+margin-left: 290px;
+}
+#searchbox input,button{
+  width: 600px;
+ border: 2px solid white;
+ border-right: 0px;
+ font-size:18px; 
+ padding: 12px;
+ background:black;
+ color:white;
+}
+#searchbox button{
+    width: 150px;
+    background:rgb(0, 0, 0);
+    color:white;
+    float: right;
+    border-left:0px;
+}
+#searchbox button:hover{
+    opacity: .8;
+}
+#searchbox input:hover{
+    opacity: .8;
+}
