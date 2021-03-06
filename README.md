@@ -9,12 +9,12 @@ after cloning repository use below commands to run application
 3. Run npm start or yarn start
  
 -----------Backend------------ 
-1.install maven in your system
-2.run mvn spring-boot:run from inside the api dir in cmd
+1. install maven in your system
+2. run mvn spring-boot:run from inside the api dir in cmd
 
 -----------Database------------
-update database connection string accordingly in api/application.properties
-copy database script from the /script folder and run in you database
+1. update database connection string accordingly in api/application.properties
+2. copy database script from the /script folder and run in you database
 
 
 congrats you are up and running
