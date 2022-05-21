@@ -32,7 +32,7 @@ export default function FooterSmall(props) {
                     href="http://www.fgips.in/"
                     className="text-white hover:text-gray-400 text-sm font-semibold block py-1 px-3"
                   >
-                    About Us
+                    Contact Us
                   </a>
                 </li>
               </ul>
