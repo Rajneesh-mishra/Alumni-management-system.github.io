@@ -132,7 +132,7 @@ export default class Login extends Component {
                             style={{ transition: "all .15s ease" }}
                             onClick={this.onLogin}
                           >
-                            Sign In
+                            Sign In to your account
                           </button>
                         </div>
                         <Grid item xs>
